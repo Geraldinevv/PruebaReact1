@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('./assets/perro-corriendo-playa-al-atardecer.avif') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing-page {
+  background: rgba(255, 255, 255, 0.8); 
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.main-content {
+  color: white; 
+}
+
+.mi-api-container {
+  text-align: center;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8); 
+  border-radius: 10px;
+  color: black; 
+}
+
+
+ 
